@@ -41,7 +41,7 @@ REST API • HOC • React Hooks • Context API • Адаптивная вёр
 
 - **Telegram:** [@svsiuy](https://t.me/svsiuy)
 - **Email:** svetadan1234@mail.ru
-- **Резюме:** [hh.ru/resume/3855768dbff0651924d0039ed1f7d34df75566b](https://hh.ru/resume/3855768dbff0651924d0039ed1f7d34df75566b)
+- **Резюме:** [Резюме на hh.ru](https://tyumen.hh.ru/resume/365b766bff066192de0039ed1f73434f75656b)
 
 ---
 
